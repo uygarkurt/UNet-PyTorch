@@ -1,6 +1,6 @@
 data
 .DS_Store
-models
+models/*
 media
 notes.txt
 storage
