@@ -46,7 +46,7 @@ if __name__ == "__main__":
             loss.backward()
             optimizer.step()
 
-        train_loss = train_running_loss / idx+1
+        train_loss = train_running_loss / (idx + 1)
 
         model.eval()
         val_running_loss = 0
@@ -60,7 +60,7 @@ if __name__ == "__main__":
 
                 val_running_loss += loss.item()
 
-            val_loss = val_running_loss / idx+1
+            val_loss = val_running_loss / (idx + 1)
 
         print("-"*30)
         print(f"Train Loss EPOCH {epoch+1}: {train_loss:.4f}")
