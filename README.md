@@ -1,4 +1,4 @@
-## Minimalistic U-Net Implementation With PyTorch
+## U-Net Implementation With PyTorch
 
 <div align="center">
     <a href="">
