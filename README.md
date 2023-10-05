@@ -161,3 +161,6 @@ In order to train the model you must run the command `python main.py`. File has 
 You must give your data directory and the directory you want to save your model to `DATA_PATH` and `MODEL_SAVE_PATH` variables in the `main.py` file.
 
 By the end of the training your model will be saved into the `MODEL_SAVE_PATH`.
+
+## Contact <a class="anchor" id="contact"></a>
+You can contact me with this email address: uygarsci@gmail.com
