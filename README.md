@@ -12,7 +12,7 @@
 </div>
 
 <p align="center">
-  <img src="./assets/U.png" />
+  <img src="./assets/U.png" height="50%" width="50%"/>
 </p>
 
 This repository contains minimalistic implementation of U-Net that is introduced in the paper [U-Net: Convolutional Networks for Biomedical Image Segmentation](https://arxiv.org/abs/1505.04597) using PyTorch. Implementation has tested using [Carvana Image Masking Challenge](https://www.kaggle.com/c/carvana-image-masking-challenge) by Kaggle.
