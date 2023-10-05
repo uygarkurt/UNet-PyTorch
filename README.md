@@ -9,7 +9,7 @@ Above example demonstrates original images, original masks and predicted masks r
 ### YouTube Tutorial
 This repository also contains a corresponding YouTube tutorial with the title **Implement and Train U-NET From Scratch for Image Segmentation - PyTorch**
 
-[![Thumbnail](./assets/new-thumb.png)](https://www.youtube.com/watch?v=HS3Q_90hnDg&t=10s)
+[![Thumbnail](./assets/new_thumb.png)](https://www.youtube.com/watch?v=HS3Q_90hnDg&t=10s)
 
 ### Project Structure
 Project structured as follows:
